@@ -2,17 +2,6 @@
 
 A modern, responsive note-taking web application built with React, FastAPI, and Tailwind CSS. It allows users to sign up, log in, and manage their personal notes through a clean and intuitive interface.
 
-## 📸 Screenshots
-
-*(It is highly recommended to add screenshots of your application here, for example: the login page and the main notes page.)*
-
-**Login Page**
-`![Login Page Screenshot](placeholder.png)`
-
-**Notes Dashboard**
-`![Notes Dashboard Screenshot](placeholder.png)`
-
-
 ## 🛠 Tech Stack
 
 - **Frontend:** React, TypeScript, Tailwind CSS
