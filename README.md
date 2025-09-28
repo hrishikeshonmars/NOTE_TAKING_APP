@@ -69,9 +69,11 @@ A modern, responsive note-taking web application built with React, FastAPI, and 
 1.  **Open a New Terminal** at the project's root directory.
 
 2.  **Serve the Frontend:**
-    *The simplest way is to use `npx serve`.*
+
+    a) npm install
+    *
     ```bash
-    npm run dev
+    b) npm run dev
     ```
     The command will output a URL, typically `http://localhost:3000`.
 
