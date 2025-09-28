@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+SQLAlchemy
+pydantic[email]
+python-multipart
+passlib[bcrypt]
+# bcrypt >= 4.0 is required by recent passlib versions to avoid startup errors
+bcrypt>=4.0.0,<5.0.0
+python-jose[cryptography]

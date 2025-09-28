@@ -1,0 +1,5 @@
+{
+  "name": "Keep Notes - Full Stack Assignment",
+  "description": "A modern, responsive note-taking web application built with React and Tailwind CSS. It allows users to sign up, log in, and manage their personal notes through a clean and intuitive interface.",
+  "requestFramePermissions": []
+}
